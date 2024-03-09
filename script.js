@@ -42,3 +42,5 @@ const inputHandler = () => {
 };
 
 textareaEl.addEventListener("input", inputHandler);
+
+// end project
